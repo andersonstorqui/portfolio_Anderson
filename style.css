@@ -136,3 +136,73 @@
 .p_itens {
   margin-top: 62px;
 }
+
+/* RODAPÉ */
+
+.footer {
+  display: flex;
+  border-top: 1px solid grey;
+  margin-top: 50px;
+  justify-content: space-around;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.cookies {
+  text-align: right;
+}
+.textWeight {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+/* Curriculo */
+
+.section {
+}
+.curriculo {
+  margin-top: 10vh;
+  display: flex;
+  margin-left: 9vw;
+}
+.h1_curriculo {
+  font-size: 54px;
+}
+.experiencia_proffisional {
+  text-align: left;
+}
+.display {
+  display: flex;
+}
+.experiencias {
+  display: flex;
+  flex-direction: column;
+  margin-left: 35vw;
+  width: 10vw;
+  margin-top: 25px;
+}
+.box_experiencias {
+  display: flex;
+  width: 25vw;
+  flex-direction: column;
+}
+.anos {
+  flex-direction: row;
+}
+.cargo {
+}
+.cargo_h1 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: -2px;
+}
+.margin-left {
+  margin-left: 28vw;
+}
+.margin {
+  margin-left: 12vw;
+}
+.margin-right {
+  margin-left: 20vw;
+}
+.title_project {
+  border: 1px solid red;
+}
