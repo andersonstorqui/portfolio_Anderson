@@ -204,5 +204,22 @@
   margin-left: 20vw;
 }
 .title_project {
-  border: 1px solid red;
+  margin-left: 9vw;
+  width: 90%;
+  margin-top: 10vh;
+  display: flex;
+}
+.paragraph_project {
+  font-weight: 100;
+  width: 20vw;
+}
+.div_project {
+  flex-direction: column;
+}
+.img_project {
+  margin-left: 30vw;
+}
+.imagemProject {
+  width: 350px;
+  height: 350px;
 }

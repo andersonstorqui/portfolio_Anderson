@@ -26,7 +26,7 @@
             <figure class="img">
                 <img src="imagem.jpg" alt="Descrição da imagem" class="imagem">
                 <figcaption>Dev FullStack</figcaption>
-                </figure>
+            </figure>
                 <div class="div_title">
                     <h1 class="title_hello">Olá!</h1>
                 </div>

@@ -24,10 +24,34 @@
 
     <section>
         <div class="curriculo">
-            <h1>Projetos</h1>
+            <h1 class="h1_curriculo">Projetos</h1>
         </div>
         <div class="title_project">
-            <h3 class="margin_title">Nome do Projeto</h3>
+            <div class="div_project">
+                <h3 class="margin_title">Nome do Projeto</h3>
+                <p class="paragraph_project">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius voluptatibus sequi harum animi, iure, labore esse repudiandae architecto nihil laboriosam eos eveniet quidem illo similique unde rem necessitatibus sapiente sed.</p>
+            </div>
+            <figure class="img_project">
+                <img src="imagem.jpg" alt="Descrição da imagem" class="imagemProject">
+            </figure>
+        </div>
+        <div class="title_project">
+            <div class="div_project">
+                <h3 class="margin_title">Nome do Projeto</h3>
+                <p class="paragraph_project">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius voluptatibus sequi harum animi, iure, labore esse repudiandae architecto nihil laboriosam eos eveniet quidem illo similique unde rem necessitatibus sapiente sed.</p>
+            </div>
+            <figure class="img_project">
+                <img src="imagem.jpg" alt="Descrição da imagem" class="imagemProject">
+            </figure>
+        </div>
+        <div class="title_project">
+            <div class="div_project">
+                <h3 class="margin_title">Nome do Projeto</h3>
+                <p class="paragraph_project">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius voluptatibus sequi harum animi, iure, labore esse repudiandae architecto nihil laboriosam eos eveniet quidem illo similique unde rem necessitatibus sapiente sed.</p>
+            </div>
+            <figure class="img_project">
+                <img src="imagem.jpg" alt="Descrição da imagem" class="imagemProject">
+            </figure>
         </div>
     </section>
     
