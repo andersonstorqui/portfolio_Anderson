@@ -18,7 +18,7 @@
         <div class="navBar">
             <a href="curriculo.php" class="navBarItem">Currículo</a>
             <a href="projetos.php"" class="navBarItem">Projetos</a>
-            <a href="" class="navBarItem">Contato</a>
+            <a href="contato.php" class="navBarItem">Contato</a>
         </div>
     </header>
     <section class="section">

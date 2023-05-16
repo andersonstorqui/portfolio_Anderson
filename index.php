@@ -18,7 +18,7 @@
         <div class="navBar">
             <a href="curriculo.php" class="navBarItem">Currículo</a>
             <a href="projetos.php" class="navBarItem">Projetos</a>
-            <a href="" class="navBarItem">Contato</a>
+            <a href="contato.php" class="navBarItem">Contato</a>
         </div>
     </header>
     <section>
@@ -46,12 +46,13 @@
                         </a>
                     </div>
                     <div class="class_content_contato">
-                        <a href="www.google.com" class="ancora">
+                        <a href="contato.php" class="ancora">
                          <p class="p_itens">Contato</p>
                     </a>
                 </div>
             </div>
         </article>
+
  </article>
 </section>
 <footer class="footer">
@@ -73,8 +74,8 @@
     <div class="cookies">
         <p>Politica de Cookies</p>
         <p>Politica de privacidade</p>
-        <p>Orgulhosamente criado por Anderson da Silva.</p>
     </div>
 </footer>
 </body>
+<script src="script.js"></script>
 </html>

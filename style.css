@@ -223,3 +223,42 @@
   width: 350px;
   height: 350px;
 }
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.bold {
+  font-weight: 700;
+}
+.contato_class {
+  margin-top: 30px;
+}
+.section_form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  border: 1px solid blue;
+  height: 70vh;
+}
+.sections {
+  display: flex;
+  flex-direction: row;
+}
+.form_style {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 100%;
+}
+.label {
+  width: 10px;
+}
+.input {
+  width: 30%;
+  height: 10%;
+}
